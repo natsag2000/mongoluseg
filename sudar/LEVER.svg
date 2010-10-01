@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2048"
+   height="341.82001"
+   id="svg7265"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="LEVER.svg">
+  <defs
+     id="defs7267" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5078125"
+     inkscape:cx="1024"
+     inkscape:cy="170.91"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1201"
+     inkscape:window-height="716"
+     inkscape:window-x="1725"
+     inkscape:window-y="58"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       orientation="1,0"
+       position="910,500"
+       id="guide7280" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="713,371.42857"
+       id="guide7282" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7270">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-710.54218)">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="M 911.62463,818.63155 C 1010.9155,710.62131 1171.333,845.37514 1337.5137,524.8515 1362.3905,639.79247 1286.5318,830.43523 1251.5968,872.21426 1103.7423,832.1057 1003.6339,835.12234 911.62463,843.57503 z"
+       id="path7252"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>
