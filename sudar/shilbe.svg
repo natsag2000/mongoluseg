@@ -10,11 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2048"
-   height="413.70999"
+   height="431.29999"
    id="svg9643"
    version="1.1"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="New document 96">
+   sodipodi:docname="shilbe.svg">
   <defs
      id="defs9645" />
   <sodipodi:namedview
@@ -24,7 +24,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50585938"
+     inkscape:zoom="0.52294922"
      inkscape:cx="1024"
      inkscape:cy="206.855"
      inkscape:document-units="px"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,12 +62,12 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-638.65218)">
+     transform="translate(0,-621.06216)">
     <path
        style="fill:#000000;fill-opacity:1;stroke:none"
-       d="m 713,638.64789 197,0 -85.87192,57.58465 85.87192,29.29745 0,328.33341 -197,0 0,-279.84109 -57.58469,35.359 C 581.29916,881.33904 514.44991,978.7314 445.28182,1068.007 l -64.65625,2.0205 0,-99.00514 C 477.23265,917.73334 610.38311,749.90248 713,638.64789 z"
+       d="m 713,620.98255 197,0 0,10.00022 -85.8719,47.58443 85.8719,29.29745 0,328.33345 -197,0 0,-279.84115 -57.5847,35.359 C 581.2991,863.67366 514.4499,961.06606 445.2818,1050.3417 l -64.6563,2.0205 0,-99.00514 C 477.2326,900.06796 610.3831,732.23715 713,620.98255 z"
        id="path9630"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccc" />
   </g>
 </svg>

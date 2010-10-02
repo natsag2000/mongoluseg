@@ -10,13 +10,13 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2048"
-   height="327.95999"
-   id="svg10763"
+   height="10"
+   id="svg42100"
    version="1.1"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="bsuul.svg">
+   sodipodi:docname="New document 39">
   <defs
-     id="defs10765" />
+     id="defs42102" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,37 +24,37 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.7009346"
-     inkscape:cx="800"
-     inkscape:cy="318.11765"
+     inkscape:zoom="0.62304688"
+     inkscape:cx="1024"
+     inkscape:cy="5"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1249"
-     inkscape:window-height="752"
-     inkscape:window-x="1724"
-     inkscape:window-y="132"
+     inkscape:window-width="1437"
+     inkscape:window-height="552"
+     inkscape:window-x="1560"
+     inkscape:window-y="185"
      inkscape:window-maximized="0">
     <sodipodi:guide
        orientation="1,0"
-       position="910,185.71429"
-       id="guide11286" />
+       position="910,482.85714"
+       id="guide42108" />
     <sodipodi:guide
        orientation="1,0"
-       position="713,254.28571"
-       id="guide11288" />
+       position="713,708.57143"
+       id="guide42110" />
   </sodipodi:namedview>
   <metadata
-     id="metadata10768">
+     id="metadata42105">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,12 +62,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-724.40218)">
-    <path
+     transform="translate(0,-1042.3622)">
+    <rect
        style="fill:#000000;fill-opacity:1;stroke:none"
-       d="m 910,734.39317 c -69.88197,32.01555 -149.76919,46.62509 -187.62647,103.70313 -17.35706,28.2146 -17.92692,31.64971 13.60529,26.77094 46.11968,-7.29294 125.06961,-35.88049 184.19435,-27.95808 117.55693,2.60831 61.4357,173.12454 51.79326,203.60134 -24.81987,-55.61902 -69.21926,-65.00125 -120.55333,-47.32841 l -164.30975,49.11421 c -47.31175,17.3674 -85.33083,15.4343 -101.80061,-31.2547 C 496.86594,829.90356 634.74655,796.62665 713,724.39293 l 197,-0.0343 z"
-       id="path10750"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccc" />
+       id="rect41308"
+       width="197"
+       height="10"
+       x="713"
+       y="1042.3622" />
   </g>
 </svg>
