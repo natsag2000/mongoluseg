@@ -14,7 +14,7 @@
    id="svg4261"
    version="1.1"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="New document 48">
+   sodipodi:docname="nuruu.svg">
   <defs
      id="defs4263" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.88538813"
-     inkscape:cx="860"
-     inkscape:cy="175.71429"
+     inkscape:zoom="0.43847656"
+     inkscape:cx="1024"
+     inkscape:cy="211.14"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -34,8 +34,8 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1059"
      inkscape:window-height="742"
-     inkscape:window-x="2019"
-     inkscape:window-y="212"
+     inkscape:window-x="1960"
+     inkscape:window-y="136"
      inkscape:window-maximized="0">
     <sodipodi:guide
        orientation="1,0"
@@ -45,6 +45,14 @@
        orientation="1,0"
        position="713,794.28571"
        id="guide4278" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="601.99587,89.226405"
+       id="guide12528" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="660.72718,42.91903"
+       id="guide12530" />
   </sodipodi:namedview>
   <metadata
      id="metadata4266">
@@ -54,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
