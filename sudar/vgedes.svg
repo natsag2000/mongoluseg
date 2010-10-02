@@ -14,7 +14,7 @@
    id="svg3290"
    version="1.1"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="New document 12">
+   sodipodi:docname="vgedes.svg">
   <defs
      id="defs3292" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.8686747"
-     inkscape:cx="705.71429"
-     inkscape:cy="194.28571"
+     inkscape:zoom="0.484375"
+     inkscape:cx="1189.1613"
+     inkscape:cy="207.455"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -65,9 +65,9 @@
      transform="translate(0,-637.45218)">
     <path
        style="fill:#000000;fill-opacity:1;stroke:none"
-       d="m 713,637.44945 197,0 -80.97547,50.76073 80.97547,29.00615 0,335.98757 -197,0 0,-300.93848 -242.92642,242.92627 c -30.1511,71.42201 18.36494,98.59381 90.64418,112.39901 -106.71037,137.7054 -331.58484,83.6655 -187.3313,-114.81619 z"
+       d="m 713,637.44945 197,0 0,9.99973 -80.97547,40.761 80.97547,29.00615 0,335.98757 -197,0 0,-300.93848 -242.92642,242.92627 c -30.1511,71.42201 18.36494,98.59381 90.64418,112.39901 -106.71037,137.7054 -331.58484,83.6655 -187.3313,-114.81619 z"
        id="path3253"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccc" />
+       sodipodi:nodetypes="cccccccccccc" />
   </g>
 </svg>

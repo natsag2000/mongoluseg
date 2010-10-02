@@ -10,11 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2048"
-   height="390.20999"
+   height="387.04001"
    id="svg11512"
    version="1.1"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="New document 114">
+   sodipodi:docname="yamedi.svg">
   <defs
      id="defs11514" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.29003906"
+     inkscape:zoom="0.46289062"
      inkscape:cx="1024"
-     inkscape:cy="300"
+     inkscape:cy="195.105"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,12 +62,12 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-662.15218)">
+     transform="translate(0,-665.32217)">
     <path
        style="fill:#000000;fill-opacity:1;stroke:none"
-       d="m 713.00134,665.31397 196.9968,0 -84.81759,53.3542 L 910,748.7654 l 0,302.3403 -197,0 0,-261.29867 -42.40975,27.36116 -186.05556,214.78481 c -21.48442,15.8208 -37.66474,46.0383 -83.45144,-4.1042 L 316.26381,891.04319 c 52.92166,19.40659 110.37856,58.46602 153.22224,34.20138 z"
+       d="m 713.00134,665.31397 196.99866,0 -0.002,10.0002 -84.81759,43.354 L 910,748.7654 l 0,302.3403 -197,0 0,-261.29867 -42.40975,27.36116 -186.05556,214.78481 c -21.48442,15.8208 -37.66474,46.0383 -83.45144,-4.1042 L 316.26381,891.04319 c 52.92166,19.40659 110.37856,58.46602 153.22224,34.20138 z"
        id="path11499"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc" />
+       sodipodi:nodetypes="cccccccccccccc" />
   </g>
 </svg>
