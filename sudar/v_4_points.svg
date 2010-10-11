@@ -14,7 +14,7 @@
    id="svg3070"
    version="1.1"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="v_points.svg">
+   sodipodi:docname="v_4_points.svg">
   <defs
      id="defs3072" />
   <sodipodi:namedview
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -65,14 +65,26 @@
      transform="translate(0,-452.36218)">
     <path
        style="fill:#000000;stroke:none"
-       d="m 721.171,597.27821 c 95.20644,67.45769 151.72759,24.89171 180.40043,11.66383 C 885.74881,752.34103 767.48103,755.12152 721.171,597.27821 z"
+       d="m 721.171,763.27821 c 95.20644,67.45769 151.72759,24.89171 180.40043,11.66383 C 885.74881,918.34103 767.48103,921.12152 721.171,763.27821 z"
        id="path4184"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:#000000;stroke:none"
-       d="m 721.171,737.27821 c 95.20644,67.45769 151.72759,24.89171 180.40043,11.66383 C 885.74881,892.34103 767.48103,895.12152 721.171,737.27821 z"
+       d="m 721.171,903.27821 c 95.20644,67.45769 151.72759,24.89171 180.40043,11.66383 C 885.74881,1058.341 767.48103,1061.1215 721.171,903.27821 z"
        id="path4184-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:#000000;stroke:none"
+       d="m 721.171,503.27821 c 95.20644,67.45769 151.72759,24.89171 180.40043,11.66383 C 885.74881,658.34103 767.48103,661.12152 721.171,503.27821 z"
+       id="path4184-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:#000000;stroke:none"
+       d="m 721.171,643.27821 c 95.20644,67.45769 151.72759,24.89171 180.40043,11.66383 C 885.74881,798.34103 767.48103,801.12152 721.171,643.27821 z"
+       id="path4184-1-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
   </g>

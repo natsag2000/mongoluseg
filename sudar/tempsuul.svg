@@ -10,13 +10,21 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2048"
-   height="600"
-   id="svg3070"
+   height="758.89001"
+   id="svg4216"
    version="1.1"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="v_points.svg">
+   sodipodi:docname="tempsuul.svg">
   <defs
-     id="defs3072" />
+     id="defs4218">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 251.235 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="2048 : 251.235 : 1"
+       inkscape:persp3d-origin="1024 : 167.49 : 1"
+       id="perspective4215" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,37 +32,37 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="32.142857"
-     inkscape:cy="824.99401"
+     inkscape:zoom="0.57519531"
+     inkscape:cx="773.29635"
+     inkscape:cy="320.77659"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1137"
-     inkscape:window-height="839"
-     inkscape:window-x="1855"
-     inkscape:window-y="22"
+     inkscape:window-width="1434"
+     inkscape:window-height="829"
+     inkscape:window-x="1535"
+     inkscape:window-y="128"
      inkscape:window-maximized="0">
     <sodipodi:guide
        orientation="1,0"
-       position="910,988.57143"
-       id="guide3085" />
+       position="910,482.85714"
+       id="guide4231" />
     <sodipodi:guide
        orientation="1,0"
-       position="713,1005.7143"
-       id="guide3087" />
+       position="713,845.71429"
+       id="guide4233" />
   </sodipodi:namedview>
   <metadata
-     id="metadata3075">
+     id="metadata4221">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,18 +70,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-452.36218)">
+     transform="translate(0,-293.47218)">
     <path
        style="fill:#000000;stroke:none"
-       d="m 721.171,597.27821 c 95.20644,67.45769 151.72759,24.89171 180.40043,11.66383 C 885.74881,752.34103 767.48103,755.12152 721.171,597.27821 z"
-       id="path4184"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:#000000;stroke:none"
-       d="m 721.171,737.27821 c 95.20644,67.45769 151.72759,24.89171 180.40043,11.66383 C 885.74881,892.34103 767.48103,895.12152 721.171,737.27821 z"
-       id="path4184-1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       d="M 910 415.5 C 858.3439 441.27939 793.49948 466.39896 713 490 L -100.09375 705.15625 L 118.03125 758.875 L 910 507.1875 L 910 415.5 z "
+       transform="translate(0,293.47218)"
+       id="path4200" />
   </g>
 </svg>
