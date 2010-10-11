@@ -13,10 +13,18 @@
    height="431.29999"
    id="svg9643"
    version="1.1"
-   inkscape:version="0.48.0 r9654"
+   inkscape:version="0.47pre4 r22446"
    sodipodi:docname="shilbe.svg">
   <defs
-     id="defs9645" />
+     id="defs9645">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 215.64999 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="2048 : 215.64999 : 1"
+       inkscape:persp3d-origin="1024 : 143.76666 : 1"
+       id="perspective2909" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,18 +32,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.52294922"
-     inkscape:cx="1024"
-     inkscape:cy="206.855"
+     inkscape:zoom="5.3250581"
+     inkscape:cx="722.86472"
+     inkscape:cy="12.656765"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1232"
-     inkscape:window-height="819"
-     inkscape:window-x="1555"
-     inkscape:window-y="59"
+     inkscape:window-width="1278"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="14"
      inkscape:window-maximized="0">
     <sodipodi:guide
        orientation="1,0"
@@ -65,7 +73,7 @@
      transform="translate(0,-621.06216)">
     <path
        style="fill:#000000;fill-opacity:1;stroke:none"
-       d="m 713,620.98255 197,0 0,10.00022 -85.8719,47.58443 85.8719,29.29745 0,328.33345 -197,0 0,-279.84115 -57.5847,35.359 C 581.2991,863.67366 514.4499,961.06606 445.2818,1050.3417 l -64.6563,2.0205 0,-99.00514 C 477.2326,900.06796 610.3831,732.23715 713,620.98255 z"
+       d="m 713,620.98255 197,0 0,10.00022 -85.8719,47.58443 85.8719,29.29745 0,344.49745 -197,0 0,-296.00515 -57.5847,35.359 C 581.2991,863.67366 514.4499,961.06606 445.2818,1050.3417 l -64.6563,2.0205 0,-99.00514 C 477.2326,900.06796 610.3831,732.23715 713,620.98255 z"
        id="path9630"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccc" />

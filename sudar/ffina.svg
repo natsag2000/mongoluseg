@@ -10,20 +10,27 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2048"
-   height="444.28"
-   id="svg4713"
+   height="758.87"
+   id="svg4216"
    version="1.1"
    inkscape:version="0.47pre4 r22446"
-   sodipodi:docname="ge.svg">
+   sodipodi:docname="ffina.svg">
   <defs
-     id="defs4715">
+     id="defs4218">
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 372.39499 : 1"
+       inkscape:vp_x="0 : 251.235 : 1"
        inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="2048 : 372.39499 : 1"
-       inkscape:persp3d-origin="1024 : 248.26333 : 1"
-       id="perspective3883" />
+       inkscape:vp_z="2048 : 251.235 : 1"
+       inkscape:persp3d-origin="1024 : 167.49 : 1"
+       id="perspective4215" />
+    <inkscape:perspective
+       id="perspective4451"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -34,7 +41,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.57519531"
      inkscape:cx="1024"
-     inkscape:cy="372.39499"
+     inkscape:cy="379.435"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,22 +54,22 @@
      inkscape:window-maximized="0">
     <sodipodi:guide
        orientation="1,0"
-       position="910,485.71429"
-       id="guide4728" />
+       position="910,482.85714"
+       id="guide4231" />
     <sodipodi:guide
        orientation="1,0"
-       position="713,525.71429"
-       id="guide4730" />
+       position="713,845.71429"
+       id="guide4233" />
   </sodipodi:namedview>
   <metadata
-     id="metadata4718">
+     id="metadata4221">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -70,11 +77,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-608.08216)">
+     transform="translate(0,-293.49218)">
     <path
        style="fill:#000000;stroke:none"
-       d="M 699.1875,608.08091 C 774.23639,717.98048 630.14877,762.61734 543.65625,837.89341 655.21986,970.23791 777.76636,750.94154 835.6875,753.23716 1054.7385,734.27698 1000.5626,945.56543 713,1042.3622 l 0,10 197,0 c 346.2953,-214.91564 120.8596,-404.09771 -70.84375,-375.15629 15.54173,-42.83176 -55.41586,-58.14153 -139.96875,-69.125 z"
-       id="path4700"
-       sodipodi:nodetypes="cccccccc" />
+       d="M 713,293.48718 C 545.84402,322.80036 417.19532,406.0692 392.625,510.51843 l -0.0937,-1.21875 c -25.49379,22.55712 -42.23067,13.49645 -49.5625,-29.53125 -10.57555,-59.16837 -61.28172,-52.62254 -130.1875,-16.25 23.16437,6.00887 34.15935,44.87916 33.6875,72.25 24.23773,70.69282 105.2358,64.2547 142.15625,20.28125 1.45229,25.62626 9.07772,52.1426 23.71875,79.15625 132.08145,118.21532 301.3378,103.40455 496.4062,-51.34375 l 0.0312,-219.40625 C 1054.4081,355.84142 1302.5079,610.65376 713,783.48718 l -813.09375,215.15625 218.125,53.71877 L 910,800.67468 c 538.9738,-155.18681 253.8797,-507.1875 -1.21875,-507.1875 l -195.78125,0 z m 0,72.21875 0,249.53125 C 639.4316,631.30558 568.2892,641.95133 529.125,582.33093 486.4693,449.73273 594.0441,397.30378 713,365.70593 z"
+       id="path4200" />
   </g>
 </svg>

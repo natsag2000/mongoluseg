@@ -14,7 +14,7 @@
    id="svg4713"
    version="1.1"
    inkscape:version="0.47pre4 r22446"
-   sodipodi:docname="ge.svg">
+   sodipodi:docname="geG.svg">
   <defs
      id="defs4715">
     <inkscape:perspective
@@ -24,6 +24,13 @@
        inkscape:vp_z="2048 : 372.39499 : 1"
        inkscape:persp3d-origin="1024 : 248.26333 : 1"
        id="perspective3883" />
+    <inkscape:perspective
+       id="perspective3973"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -62,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -76,5 +83,17 @@
        d="M 699.1875,608.08091 C 774.23639,717.98048 630.14877,762.61734 543.65625,837.89341 655.21986,970.23791 777.76636,750.94154 835.6875,753.23716 1054.7385,734.27698 1000.5626,945.56543 713,1042.3622 l 0,10 197,0 c 346.2953,-214.91564 120.8596,-404.09771 -70.84375,-375.15629 15.54173,-42.83176 -55.41586,-58.14153 -139.96875,-69.125 z"
        id="path4700"
        sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 220.22925,891.74044 c 38.07487,34.75726 104.13705,41.52696 171.733,46.76301 l 0,86.26965 c -38.18663,34.3668 -84.84807,32.7148 -131.42026,31.4441 -39.2485,-51.9577 -38.5914,-108.34936 -40.31274,-164.47676 z"
+       id="path3953"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 220.22925,601.74044 c 38.07487,34.75726 104.13705,41.52696 171.733,46.76301 l 0,86.26965 c -38.18663,34.36676 -84.84807,32.71476 -131.42026,31.44406 -39.2485,-51.9577 -38.5914,-108.34932 -40.31274,-164.47672 z"
+       id="path3953-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
   </g>
 </svg>

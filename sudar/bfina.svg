@@ -9,21 +9,21 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2040"
-   height="339.22"
-   id="svg7265"
+   width="2048"
+   height="758.89001"
+   id="svg4216"
    version="1.1"
    inkscape:version="0.47pre4 r22446"
-   sodipodi:docname="shud.svg">
+   sodipodi:docname="bfina.svg">
   <defs
-     id="defs7267">
+     id="defs4218">
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 169.61 : 1"
+       inkscape:vp_x="0 : 251.235 : 1"
        inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="2040 : 169.61 : 1"
-       inkscape:persp3d-origin="1020 : 113.07333 : 1"
-       id="perspective11064" />
+       inkscape:vp_z="2048 : 251.235 : 1"
+       inkscape:persp3d-origin="1024 : 167.49 : 1"
+       id="perspective4215" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -32,9 +32,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.7252374"
-     inkscape:cx="914.04456"
-     inkscape:cy="146.48876"
+     inkscape:zoom="0.57519531"
+     inkscape:cx="773.29635"
+     inkscape:cy="181.6934"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,15 +47,15 @@
      inkscape:window-maximized="0">
     <sodipodi:guide
        orientation="1,0"
-       position="910,500"
-       id="guide7280" />
+       position="910,482.85714"
+       id="guide4231" />
     <sodipodi:guide
        orientation="1,0"
-       position="713,371.42857"
-       id="guide7282" />
+       position="713,845.71429"
+       id="guide4233" />
   </sodipodi:namedview>
   <metadata
-     id="metadata7270">
+     id="metadata4221">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -70,12 +70,12 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-713.1422)">
+     transform="translate(0,-293.47218)">
     <path
-       style="fill:#000000;fill-opacity:1;stroke:none"
-       d="m 910,712.13993 0,19.80338 -75.97745,50.81087 75.97745,37.87737 0,24.94348 0,208.78717 -197,0 0,-126.56566 -163.51907,-72.98296 0,-36.02949 L 713,712.54265 910,712.13993 z"
-       id="path7252"
+       style="fill:#000000;stroke:none"
+       d="m 713.0002,293.47194 c -229.8369,40.30517 -386.9146,182.59492 -300.6641,341.73262 132.0815,118.21532 301.3357,103.3815 496.4041,-51.3668 l 0.056,-219.40686 C 1054.4231,355.81639 1302.5079,610.64586 713,783.47928 L -100.09768,998.62858 118.02966,1052.3622 910,800.65698 c 538.9738,-155.18681 253.8946,-507.18504 -1.2038,-507.18504 l -195.796,0 z m 0,72.21487 0,249.54905 c -73.5684,16.0684 -144.7006,26.7153 -183.8648,-32.9051 -42.6557,-132.5982 64.9089,-185.0461 183.8648,-216.64395 z"
+       id="path4200"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccc" />
+       sodipodi:nodetypes="ccccccccsccccc" />
   </g>
 </svg>
